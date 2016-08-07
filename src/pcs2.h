@@ -234,7 +234,7 @@
 #include "wxGL_PMFCanvas.h"
 
 #ifdef UNIX
-#define CONFIG_FILE _("/.pcs2")
+#define CONFIG_FILE _("/.pcs2/pcs2.ini")
 #else
 #define CONFIG_FILE _("\\pcs2.ini")
 #endif
